@@ -21,7 +21,7 @@ const Card = ({ loadingData, showData, weather, forecast }) => {
     <Box
       mt={5}
       width="100%"
-      maxWidth="600px"
+      maxWidth="601px"
       mx="auto"
       p={4}
       boxShadow="lg"
